@@ -1,0 +1,5 @@
+python-twitter
+Pillow
+pycoingecko
+Google-Images-Search
+schedule
