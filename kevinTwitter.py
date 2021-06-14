@@ -196,7 +196,7 @@ def mainAction():
 
 scheduler = SafeScheduler()
 
-scheduler.every().day.at("4:20").do(mainAction)
+scheduler.every().day.at("04:20").do(mainAction)
 scheduler.every().day.at("17:38").do(mainAction)
 #b = schedule.every(5).seconds.do(j)
 
